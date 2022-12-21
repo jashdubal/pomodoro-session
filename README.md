@@ -10,13 +10,11 @@
 
 Description
 
-[<img src="./icons/Google-Play-Store-Logo.png" height="100" alt="Screenshot"/>](https://play.google.com/store/apps/details?id=com.ibhavikmakwana.flutterplayground)
-
 ## Preview
 
 | Home | App bar | Navigation Drawer |
 | ------------------ | --------------------------- | ------------------ |
-| <img src="./preview/home.png" height="400" alt="Screenshot"/>  | <img src="./preview/appbar.png" height="400" alt="Screenshot"/> | <img src="./preview/navigation_drawer.png" height="400" alt="Screenshot"/> |
+| <img src="images/welcome.png" height="400" alt="Screenshot"/>  | <img src="images/home.png" height="400" alt="Screenshot"/> | <img src="./preview/navigation_drawer.png" height="400" alt="Screenshot"/> |
 
 
 | Left Navigation Drawer | Right Navigation Drawer | Right Navigation Drawer |
