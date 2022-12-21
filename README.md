@@ -1,15 +1,11 @@
 # Session
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
+<div align="center">
+  <img src="images/My project.png" width="50%"/>
+</div>
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ae27cc3a3b32499cbf4c6d1614719c6f)](https://app.codacy.com/app/ibhavikmakwana/FlutterPlayground?utm_source=github.com&utm_medium=referral&utm_content=ibhavikmakwana/FlutterPlayground&utm_campaign=Badge_Grade_Dashboard)
-[![Codemagic build status](https://api.codemagic.io/apps/5d0de80099fdb700102145c9/5d0de80099fdb700102145c8/status_badge.svg)](https://codemagic.io/apps/5d0de80099fdb700102145c9/5d0de80099fdb700102145c8/latest_build)
-[![Say Thanks!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://saythanks.io/to/ibhavikmakwana) 
+</br>
 
-Playground app for Flutter.
-Contains examples to quickly learn and tinker around with various features.
-Consider Contributing if you find this project helpful.
+Description
 
 [<img src="./icons/Google-Play-Store-Logo.png" height="100" alt="Screenshot"/>](https://play.google.com/store/apps/details?id=com.ibhavikmakwana.flutterplayground)
 
