@@ -9,7 +9,11 @@
   <a href="www.google.com"> <img border="0" alt="W3Schools" src="images/apple.png" height="100"></a>
 </div>
 
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+
 Description
+
+[![Get it from iTunes](images/apple.png)](www.google.com) [![Get it on Google Play](images/play.png)](www.google.com)
 
 ## Preview
 
