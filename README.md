@@ -6,7 +6,12 @@
 
 [<img src="images/My project.png" height="175" alt="Screenshot"/>](Icon) Hello wolrd
 <br>
-[<img src="images/google.png" height="100" alt="Screenshot"/>](www.google.com)
+
+<div align="center">
+  [<img src="images/play.png" height="100" alt="Screenshot"/>](www.google.com)
+  [<img src="images/apple.png" height="100" alt="Screenshot"/>](www.google.com)
+</div>
+[<img src="images/play.png" height="100" alt="Screenshot"/>](www.google.com)
 [<img src="images/apple.png" height="100" alt="Screenshot"/>](www.google.com)
 
 Description
