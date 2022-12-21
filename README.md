@@ -9,7 +9,7 @@ Description
 
 | Home | App bar | Navigation Drawer |
 | ------------------ | --------------------------- | ------------------ |
-| <img src="images/welcome.png" height="400" alt="Screenshot"/>  | <img src="images/home.png" height="400" alt="Screenshot"/> | <img src="./preview/navigation_drawer.png" height="400" alt="Screenshot"/> |
+| <img src="images/Welcome.png" height="400" alt="Screenshot"/>  | <img src="images/home.png" height="400" alt="Screenshot"/> | <img src="images/session.png" height="400" alt="Screenshot"/> |
 
 
 | Left Navigation Drawer | Right Navigation Drawer | Right Navigation Drawer |
