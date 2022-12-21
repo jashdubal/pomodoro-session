@@ -1,19 +1,9 @@
 # Session
-[<img src="images/My project.png" height="175" alt="Screenshot"/>](Icon) Hello wolrd
-
-<br>
-
-<div align="center">
-  [<img src="images/play.png" height="100" alt="Screenshot"/>](www.google.com)
-  [<img src="images/apple.png" height="100" alt="Screenshot"/>](www.google.com)
-  <a href="www.google.com"> <img border="0" alt="W3Schools" src="images/apple.png" height="100"></a>
-</div>
-
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 Description
 
-[![Get it from iTunes](images/apple.png)](www.google.com) [![Get it on Google Play](images/play.png)](www.google.com)
+[![Get it from iTunes](https://lisk.com/sites/default/files/pictures/2020-01/download_on_the_app_store_badge.svg)](www.google.com) [![Get it on Google Play]([images/play.png](https://lisk.com/sites/default/files/pictures/2020-01/download_on_the_app_store_badge.svg))](www.google.com)
 
 ## Preview
 
