@@ -6,7 +6,7 @@
 <div align="center">
   [<img src="images/play.png" height="100" alt="Screenshot"/>](www.google.com)
   [<img src="images/apple.png" height="100" alt="Screenshot"/>](www.google.com)
-  <a href="www.google.com"> <img border="0" alt="W3Schools" src="images/apple.png" height="100">
+  <a href="www.google.com"> <img border="0" alt="W3Schools" src="images/apple.png" height="100"></a>
 </div>
 
 Description
