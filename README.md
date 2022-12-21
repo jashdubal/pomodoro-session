@@ -9,9 +9,9 @@ Description
 
 | Welcome | Home | Session |
 | ------------------ | --------------------------- | ------------------ |
-| <img src="images/Welcome.png" width="35%" alt="Screenshot"/>  | <img src="images/home.png" width="35%" alt="Screenshot"/> | <img src="images/session.png" width="35%" alt="Screenshot"/> |
+| <img src="images/Welcome.png" width="55%" alt="Screenshot"/>  | <img src="images/home.png" width="55%" alt="Screenshot"/> | <img src="images/session.png" width="55%" alt="Screenshot"/> |
 
 
 | Welcome | Home | Session |
 | ------------------ | --------------------------- | ------------------ |
-| <img src="images/Welcome.png" height="600" alt="Screenshot"/>  | <img src="images/home.png" height="600" alt="Screenshot"/> | <img src="images/session.png" height="600" alt="Screenshot"/> |
+| <img src="images/Welcome.png" alt="Screenshot"/>  | <img src="images/home.png" alt="Screenshot"/> | <img src="images/session.png" alt="Screenshot"/> |
