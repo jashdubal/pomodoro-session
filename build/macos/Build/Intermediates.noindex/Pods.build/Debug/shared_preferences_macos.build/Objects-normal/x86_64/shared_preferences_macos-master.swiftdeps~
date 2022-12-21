@@ -1,7 +1,0 @@
-version: "Apple Swift version 5.7.2 (swiftlang-5.7.2.135.5 clang-1400.0.29.51)"
-options: "d2c3816604e9f4d5109f416f530a3eefad55dca69d42e9108c4e81c5e44a56bb"
-build_start_time: [1671448127, 788681983]
-build_end_time: [1671448127, 837890148]
-inputs:
-  ? "/Users/jashdubal/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.4/macos/Classes/SharedPreferencesPlugin.swift"
-  : !private [1671447187, 533609390]
