@@ -14,4 +14,4 @@ Description
 
 | Welcome | Home | Session |
 | ------------------ | --------------------------- | ------------------ |
-| <img src="images/Welcome.png" alt="Screenshot"/>  | <img src="images/home.png" alt="Screenshot"/> | <img src="images/session.png" alt="Screenshot"/> |
+| <img src="images/history.png" alt="Screenshot"/>  | <img src="images/data.png" alt="Screenshot"/> | <img src="images/session.png" alt="Screenshot"/> |
