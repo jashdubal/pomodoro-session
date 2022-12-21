@@ -3,8 +3,10 @@
   <img src="images/My project.png" width="50%"/>
 </div>
 
-[<img src="./icons/Google-Play-Store-Logo.png" height="100" alt="Screenshot"/>](https://play.google.com/store/apps/details?id=com.ibhavikmakwana.flutterplayground)
-[<img src="images/My project.png" height="100" alt="Screenshot"/>](Icon)
+
+[<img src="images/My project.png" height="175" alt="Screenshot"/>](Icon)
+[<img src="./icons/Google-Play-Store-Logo.png" height="100" alt="Screenshot"/>](www.google.com)
+[<img src="./icons/apple.png" height="100" alt="Screenshot"/>](www.google.com)
 
 Description
 
