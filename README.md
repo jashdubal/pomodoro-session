@@ -5,8 +5,8 @@
 
 
 [<img src="images/My project.png" height="175" alt="Screenshot"/>](Icon)
-[<img src="./icons/Google-Play-Store-Logo.png" height="100" alt="Screenshot"/>](www.google.com)
-[<img src="./icons/apple.png" height="100" alt="Screenshot"/>](www.google.com)
+[<img src="images/Google-Play-Store-Logo.png" height="100" alt="Screenshot"/>](www.google.com)
+[<img src="images/apple.png" height="100" alt="Screenshot"/>](www.google.com)
 
 Description
 
