@@ -5,7 +5,7 @@ Session is a cross-platform app that helps users track work sessions using the P
 
 [![Get it from iTunes](https://lisk.com/sites/default/files/pictures/2020-01/download_on_the_app_store_badge.svg)](https://twitter.com) [![Get it on Google Play](https://lisk.com/sites/default/files/pictures/2020-01/download_on_the_play_store_badge.svg)](www.google.com)
 
-## Preview
+## 🎬 Showcase
 
 | Welcome | Home | Session |
 | ------------------ | --------------------------- | ------------------ |
@@ -16,6 +16,6 @@ Session is a cross-platform app that helps users track work sessions using the P
 | ------------------ | --------------------------- |
 | <img src="images/history.png" alt="Screenshot"/>  | <img src="images/data.png" alt="Screenshot"/> |
 
-## Future Development
+## 🚀 Future Development
 
 In the future, I plan to add advanced data visualization features such as heat maps and enhanced statistics, as well as increased customizability for the timer, including the ability to remove breaks. Stay tuned!
