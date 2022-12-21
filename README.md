@@ -3,8 +3,7 @@
 
 Description
 
-[![Get it from iTunes](https://lisk.com/sites/default/files/pictures/2020-01/download_on_the_app_store_badge.svg)](www.google.com) [![Get it on Google Play]([https://lisk.com/sites/default/files/pictures/2020-01/download_on_the_app_store_badge.svg](https://play.google.com/store/apps/details?id=io.lisk.mobile&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1))](www.google.com)
-
+[![Get it from iTunes](https://lisk.com/sites/default/files/pictures/2020-01/download_on_the_app_store_badge.svg)](www.google.com) [![Get it on Google Play](https://lisk.com/sites/default/files/pictures/2020-01/download_on_the_play_store_badge.svg)](www.google.com)
 
 ## Preview
 
