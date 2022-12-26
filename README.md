@@ -3,7 +3,7 @@
 
 Session is a cross-platform app that helps users track work sessions using the Pomodoro Technique. It was built using Flutter and Dart, and uses Flutter's state management features to store data without the need for a database. This makes it a lightweight and efficient tool for staying focused and organized.
 
-[![Get it on Google Play](https://lisk.com/sites/default/files/pictures/2020-01/download_on_the_play_store_badge.svg)](www.google.com)
+[![Get it on Google Play](https://lisk.com/sites/default/files/pictures/2020-01/download_on_the_play_store_badge.svg)](https://play.google.com/store/apps/details?id=com.jashdubal.app)
 
 ## 🎬 Showcase
 
