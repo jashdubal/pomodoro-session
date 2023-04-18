@@ -29,7 +29,7 @@ To set up this project on your local machine, follow these steps:
 2. Clone this repository:
 
 ```shell
-git clone https://github.com/jashdubal/session.git
+git clone https://github.com/jashdubal/pomodoro-session.git
 ```
 
 3. Navigate to the project directory:
