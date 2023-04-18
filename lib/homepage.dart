@@ -13,6 +13,7 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   int index = 1;
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -24,18 +25,17 @@ class _HomePageState extends State<HomePage> {
         buttonBackgroundColor: Colors.greenAccent,
         color: Colors.greenAccent,
         animationDuration: const Duration(milliseconds: 350),
-        onTap: (selectedIndex){
+        onTap: (selectedIndex) {
           setState(() {
             index = selectedIndex;
           });
         },
-          index: 1,
-        items:const[
+        index: 1,
+        items: const [
           Icon(Icons.timelapse_rounded, size: 20, color: Colors.black),
           Icon(Icons.fitbit_rounded, size: 20, color: Colors.black),
           Icon(Icons.history_rounded, size: 20, color: Colors.black),
         ],
-
       ),
       body: Container(
         child: getSelectedWidget(index: index),
@@ -43,21 +43,14 @@ class _HomePageState extends State<HomePage> {
     );
   }
 
-  getSelectedWidget({required int index}) {
-    Widget widget;
-    switch(index){
+  Widget getSelectedWidget({required int index}) {
+    switch (index) {
       case 0:
-        widget = const Data();
-        break;
-
+        return const Data();
       case 2:
-        widget = const Settings();
-        break;
-
+        return const Settings();
       default:
-        widget = const Habit();
+        return const Habit();
     }
-    return widget;
   }
-
 }

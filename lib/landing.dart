@@ -1,8 +1,12 @@
+// Home screen that displays the logo and a button to start the session
+
 import 'package:flutter/material.dart';
 
 import 'homepage.dart';
 
 class LandingPage extends StatelessWidget {
+  static const _textStyle = TextStyle(fontFamily: 'Arial');
+
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -16,17 +20,15 @@ class LandingPage extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   const AnimatedOpacity(
-                    // Animate the opacity from 0 to 1 over 500ms
                     duration: Duration(milliseconds: 500),
                     opacity: 1,
                     child: Text(
                       'Welcome to Session',
-                      style: TextStyle(fontSize: 32, fontFamily: 'Arial', color: Colors.white),
+                      style: TextStyle(fontSize: 32, color: Colors.white, fontFamily: 'Arial'),
                     ),
                   ),
                   SizedBox(height: 16),
                   AnimatedOpacity(
-                    // Animate the opacity from 0 to 1 over 500ms
                     duration: Duration(milliseconds: 500),
                     opacity: 1,
                     child: TextButton(
@@ -42,8 +44,10 @@ class LandingPage extends StatelessWidget {
                           },
                         ),
                       ),
-                      child: const Text('start'
-                          , style: TextStyle(fontFamily: 'Arial', color: Colors.greenAccent)),
+                      child: const Text(
+                        'start',
+                        style: TextStyle(color: Colors.greenAccent),
+                      ),
                     ),
                   ),
                 ],
@@ -56,7 +60,7 @@ class LandingPage extends StatelessWidget {
             alignment: Alignment.center,
             child: const Text(
               'Built in YYC by Jash Dubal',
-              style: TextStyle(fontSize: 12, fontFamily: 'Arial', color: Colors.white24),
+              style: TextStyle(fontSize: 12, color: Colors.white24, fontFamily: 'Arial'),
             ),
           ),
         ],
@@ -64,4 +68,3 @@ class LandingPage extends StatelessWidget {
     );
   }
 }
-

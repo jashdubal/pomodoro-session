@@ -103,7 +103,7 @@ class _TimerState extends State<MyTimer> {
   void _startTimer() async {
     _timer = Timer.periodic(const Duration(seconds: 1), (timer) {
       setState(() {
-        _time = _time - const Duration(seconds: 300);
+        _time = _time - const Duration(seconds: 1);
         if (_time.inSeconds <= 0) {
 
           if(_timerCount % 2 == 1) {
