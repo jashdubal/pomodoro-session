@@ -2,7 +2,7 @@
 [![Google Play](https://img.shields.io/badge/Google_Play-Download-413EA4?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.jashdubal.app)
 
 
-Session is a cross-platform app that helps users track work sessions using the Pomodoro Technique. It was built using Flutter and Dart and uses Flutter's state management features to store data without the need for a database. This makes it a lightweight and efficient tool for staying focused and organized.
+Flutter app that helps users track work sessions using the Pomodoro Technique. It was built using Flutter and Dart and uses Flutter's state management features to store data without the need for a database. This makes it a lightweight and efficient tool for staying focused and organized.
 
 ## 🎬 Showcase
 
